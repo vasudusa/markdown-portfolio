@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- List of my Fav things :-
+  - Bike Riding.
+  - Camping.
+  - Exploring the Field of Computers.
